@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bookstore SYSTEM "bookstore.dtd">
+<bookstore>
+  <book isbn="9780141439518">
+    <title>Pride and Prejudice</title>
+    <author>Jane Austen</author>
+    <price>449</price>
+    <category>Classic</category>
+  </book>
+  <book isbn="9780141439822">
+    <title>Emma</title>
+    <author>Jane Austen</author>
+    <price>399</price>
+    <category>Classic</category>
+  </book>
+</bookstore>
